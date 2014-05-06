@@ -1,0 +1,627 @@
+{
+  "title": "Chemistry",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "States",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "States of matter",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Solid",
+              "id": 3,
+              "ideas": {
+                "1": {
+                  "title": "Particles all touching",
+                  "id": 6
+                },
+                "2": {
+                  "title": "Vibrate with energy",
+                  "id": 7
+                },
+                "3": {
+                  "title": "Fixed",
+                  "id": 8
+                },
+                "4": {
+                  "title": "Regular pattern",
+                  "id": 9
+                }
+              }
+            },
+            "2": {
+              "title": "Liquid",
+              "id": 4,
+              "ideas": {
+                "1": {
+                  "title": "Irregular pattern",
+                  "id": 10
+                },
+                "2": {
+                  "title": "Normally touching",
+                  "id": 11
+                },
+                "3": {
+                  "title": "Not very spread out but can move around",
+                  "id": 12
+                }
+              }
+            },
+            "3": {
+              "title": "Gas",
+              "id": 5,
+              "ideas": {
+                "1": {
+                  "title": "Very spread out",
+                  "id": 13
+                },
+                "2": {
+                  "title": "No pattern",
+                  "id": 14
+                },
+                "3": {
+                  "title": "Free to move around",
+                  "id": 15
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Change in state",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Solid -> Liquid",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "Melting",
+                  "id": 19
+                }
+              }
+            },
+            "2": {
+              "title": "Liquid -> Gas",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Evaporation",
+                  "id": 21
+                }
+              }
+            },
+            "3": {
+              "title": "Gas -> Liquid ",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "Condensation",
+                  "id": 23
+                }
+              }
+            },
+            "4": {
+              "title": "Liquid -> Solid",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "Freezing",
+                  "id": 25
+                }
+              }
+            },
+            "5": {
+              "title": "Solid -> Gas",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Sublimation",
+                  "id": 27
+                }
+              }
+            },
+            "6": {
+              "title": "Gas -> Solid",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "Sublimation",
+                  "id": 29
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Separating",
+      "id": 47,
+      "ideas": {
+        "1": {
+          "title": "Solvent",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "A liquid that dissolves things",
+              "id": 49
+            }
+          }
+        },
+        "2": {
+          "title": "Solute",
+          "id": 51,
+          "ideas": {
+            "1": {
+              "title": "A solid that dissolves in a solvent",
+              "id": 52
+            }
+          }
+        },
+        "3": {
+          "title": "Solution",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "A mixture of a liquid with something dissolved in it",
+              "id": 56
+            }
+          }
+        },
+        "4": {
+          "title": "Saturated Solution",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "A solution where nothing  else can dissolve",
+              "id": 58
+            }
+          }
+        },
+        "5": {
+          "title": "Insoluble/Soluble",
+          "id": 59,
+          "ideas": {
+            "1": {
+              "title": "A solution that is not/is able to dissolve in a liquid",
+              "id": 60
+            }
+          }
+        },
+        "6": {
+          "title": "Micible",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "Where two (or more) substances completely mix",
+              "id": 62
+            }
+          }
+        },
+        "7": {
+          "title": "Simple Distillation",
+          "id": 64,
+          "ideas": {
+            "1": {
+              "title": "is used to separate two micible liquids",
+              "id": 65
+            },
+            "2": {
+              "title": "Two stages",
+              "id": 66,
+              "ideas": {
+                "1": {
+                  "title": "1: The mixture is boiled  to separate and vapourise the most volitile component (Liquid -> Gas)",
+                  "id": 67
+                },
+                "2": {
+                  "title": "2: The vapour is cooled  by cold water in the condenser to turn it back into a liquid which is collected (Gas -> Liquid)",
+                  "id": 68
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "title": "Fractional Distillation",
+          "id": 69,
+          "ideas": {
+            "1": {
+              "title": "is used to separate a complex mixture, where the components' boiling points are close together.",
+              "id": 70
+            },
+            "2": {
+              "title": "Three Stages",
+              "id": 71,
+              "ideas": {
+                "1": {
+                  "title": "1: The solution is heated to vapourise the most volitile component (Liquid -> Gas)",
+                  "id": 72
+                },
+                "2": {
+                  "title": "2: The vapour  is passed up the fractionating column",
+                  "id": 73,
+                  "ideas": {
+                    "1": {
+                      "title": "The column is at different temperatures but coldest at the top",
+                      "id": 74
+                    }
+                  }
+                },
+                "3": {
+                  "title": "3: The vapour is cooled (Gas -> Liquid)",
+                  "id": 75
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Nobel Gases are 'inert' (i.e. don't react)",
+      "id": 85
+    },
+    "4": {
+      "title": "Separation Methods",
+      "id": 90,
+      "ideas": {
+        "1": {
+          "title": "Chromatography ",
+          "id": 86,
+          "ideas": {
+            "1": {
+              "title": "is the method used to separate coloured material",
+              "id": 87
+            },
+            "2": {
+              "title": "The material to be separated (e.g. food dye) is dissolved in a solvent and spotted on to chromatography paper.",
+              "id": 88
+            },
+            "3": {
+              "title": "The paper is then clipped in a solvent which rises up the paper",
+              "id": 89
+            }
+          }
+        },
+        "2": {
+          "title": "Filtration",
+          "id": 91,
+          "ideas": {
+            "1": {
+              "title": "is used to separate solids form liquids",
+              "id": 92
+            }
+          }
+        },
+        "3": {
+          "title": "Evaporation",
+          "id": 95,
+          "ideas": {
+            "1": {
+              "title": "is removing a liquid from a solution,  normally leaving a solid",
+              "id": 96
+            }
+          }
+        },
+        "4": {
+          "title": "Crystallisation",
+          "id": 97,
+          "ideas": {
+            "1": {
+              "title": "is separating water from a saturated solution to leave solid crystals",
+              "id": 98
+            },
+            "2": {
+              "title": "Crystals grow out of the solution because it is too saturated for all the solution to remain dissolved at that temperature",
+              "id": 100
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Substances",
+      "id": 30,
+      "ideas": {
+        "1": {
+          "title": "Atom",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Everything is made from",
+              "id": 32
+            },
+            "2": {
+              "title": "Cannot be split smaller",
+              "id": 33
+            },
+            "3": {
+              "title": "Made from electrons, protons and neutrons",
+              "id": 34
+            }
+          }
+        },
+        "2": {
+          "title": "Molecules",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "More than 1 atom",
+              "id": 36
+            }
+          }
+        },
+        "3": {
+          "title": "Element",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "A pure substance",
+              "id": 39
+            },
+            "2": {
+              "title": "Made of only 1 type of atom",
+              "id": 40
+            }
+          }
+        },
+        "4": {
+          "title": "Compound",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "Two or more different elements",
+              "id": 42
+            }
+          }
+        },
+        "5": {
+          "title": "Mixtures",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "Two substances that are not chemically joined",
+              "id": 44
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Reactions with water",
+      "id": 76,
+      "ideas": {
+        "1": {
+          "title": "Metal + Water --> Metal Hydroxide + Hydrogen",
+          "id": 77
+        }
+      }
+    },
+    "-12": {
+      "title": "Preventing Rust",
+      "id": 78,
+      "ideas": {
+        "1": {
+          "title": "Barriers",
+          "id": 79,
+          "ideas": {
+            "1": {
+              "title": "Painting, plating with less reactive metal (e.g. gold)",
+              "id": 80
+            }
+          }
+        },
+        "2": {
+          "title": "Galvanizing",
+          "id": 81,
+          "ideas": {
+            "1": {
+              "title": "Plating with a more reactive metal (e.g. zinc)",
+              "id": 82
+            }
+          }
+        },
+        "3": {
+          "title": "Sacraficial Protection",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "Sometimes Zinc blocks are hung from ships as the seawater prefers to react with them in preference of the iron.",
+              "id": 84
+            }
+          }
+        }
+      }
+    },
+    "-13": {
+      "title": "Rates of Reaction",
+      "id": 102,
+      "ideas": {
+        "1": {
+          "title": "is the speed of a reaction",
+          "id": 103,
+          "ideas": {
+            "1": {
+              "title": "it can be measured by the time taken for the reactants to be used up",
+              "id": 104,
+              "ideas": {
+                "1": {
+                  "title": "speed of reaction = (amount of reactants used up) / (time taken)",
+                  "id": 105
+                }
+              }
+            },
+            "2": {
+              "title": "it can also be measured  by the speed at which products are formed",
+              "id": 106,
+              "ideas": {
+                "1": {
+                  "title": "speed of reaction = (amount of products formed) / (time taken)",
+                  "id": 107
+                }
+              }
+            },
+            "3": {
+              "title": "Can be measured on scales or in a gas syringe",
+              "id": 110
+            }
+          }
+        },
+        "2": {
+          "title": "An example could be HCl (hydrocloric acid) and marble chips",
+          "id": 111
+        },
+        "3": {
+          "title": "Can be affected by:",
+          "id": 112,
+          "ideas": {
+            "1": {
+              "title": "- concentration",
+              "id": 113
+            },
+            "2": {
+              "title": "- pressure (for gases)",
+              "id": 114,
+              "ideas": {}
+            },
+            "3": {
+              "title": "- surface area",
+              "id": 116
+            },
+            "4": {
+              "title": "- temperature",
+              "id": 117
+            }
+          }
+        },
+        "4": {
+          "title": "For a reaction to occur:",
+          "id": 118,
+          "ideas": {
+            "1": {
+              "title": "- the reacting particles must collid",
+              "id": 120
+            },
+            "2": {
+              "title": "- they must collide with the minimum required energy (activation energy)",
+              "id": 121
+            }
+          }
+        }
+      }
+    },
+    "-23": {
+      "title": "Atomic Structure",
+      "id": 122,
+      "ideas": {
+        "1": {
+          "title": "Electron Charge",
+          "id": 123,
+          "ideas": {
+            "1": {
+              "title": "-1",
+              "id": 124
+            }
+          }
+        },
+        "2": {
+          "title": "Neutron Charge",
+          "id": 125,
+          "ideas": {
+            "1": {
+              "title": "0",
+              "id": 126
+            }
+          }
+        },
+        "3": {
+          "title": "Proton Charge",
+          "id": 127,
+          "ideas": {
+            "1": {
+              "title": "+1",
+              "id": 128
+            }
+          }
+        },
+        "4": {
+          "title": "Max Electrons in Shell",
+          "id": 134,
+          "ideas": {
+            "1": {
+              "title": "1st",
+              "id": 135,
+              "ideas": {
+                "1": {
+                  "title": "2",
+                  "id": 136
+                }
+              }
+            },
+            "2": {
+              "title": "2nd",
+              "id": 137,
+              "ideas": {
+                "1": {
+                  "title": "8",
+                  "id": 138
+                }
+              }
+            },
+            "3": {
+              "title": "3rd (and onwards)",
+              "id": 139,
+              "ideas": {
+                "1": {
+                  "title": "8 (if AN > 20 then 18)",
+                  "id": 140
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Group No. (cols)",
+          "id": 142,
+          "ideas": {
+            "1": {
+              "title": "No. of electrons in outer shell",
+              "id": 145
+            }
+          }
+        },
+        "6": {
+          "title": "Period No. (rows)",
+          "id": 146,
+          "ideas": {
+            "1": {
+              "title": "No. of shells",
+              "id": 147
+            }
+          }
+        }
+      }
+    },
+    "-33": {
+      "title": "R(elative) A(tomic) M(ass)",
+      "id": 129,
+      "ideas": {
+        "1": {
+          "title": "To calculate we must take into account each isotope's abundance",
+          "id": 130
+        },
+        "2": {
+          "title": "((ABUN% * ISO-MASS) + (ABUN% * ISO-MASS)) / 100 = RAM",
+          "id": 132
+        }
+      }
+    }
+  },
+  "links": []
+}

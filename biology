@@ -1,0 +1,1111 @@
+{
+  "title": "Biology",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Oraganisms",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Multicellular",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Many cells",
+              "id": 8
+            }
+          }
+        },
+        "2": {
+          "title": "Unicellular",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "One cell",
+              "id": 11
+            }
+          }
+        },
+        "3": {
+          "title": "8 Life Functions",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Require Nutrition",
+              "id": 13
+            },
+            "2": {
+              "title": "Excrete",
+              "id": 14
+            },
+            "3": {
+              "title": "Move",
+              "id": 15,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Grow and Develop",
+              "id": 17,
+              "ideas": {}
+            },
+            "5": {
+              "title": "Respire",
+              "id": 19
+            },
+            "6": {
+              "title": "Respond to Stimuli",
+              "id": 20
+            },
+            "7": {
+              "title": "Reproduce",
+              "id": 21
+            },
+            "8": {
+              "title": "Control Internal Conditions",
+              "id": 22
+            }
+          }
+        },
+        "4": {
+          "title": "Organelles",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Nucleus",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Most cells have them; controls activities; holds DNA/RNA and chromosomes.",
+                  "id": 26
+                }
+              }
+            },
+            "2": {
+              "title": "Mitochondria",
+              "id": 27,
+              "ideas": {
+                "1": {
+                  "title": "Found in cytoplasm; carry out respiration",
+                  "id": 28
+                }
+              }
+            },
+            "3": {
+              "title": "Chloroplasts",
+              "id": 29,
+              "ideas": {
+                "1": {
+                  "title": "Typical of plant cells; carry out photosynthesis",
+                  "id": 30
+                }
+              }
+            },
+            "4": {
+              "title": "Cell Wall",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "Give cell structure",
+                  "id": 32
+                },
+                "2": {
+                  "title": "In plants",
+                  "id": 33,
+                  "ideas": {
+                    "1": {
+                      "title": "Cellulose",
+                      "id": 34
+                    }
+                  }
+                },
+                "3": {
+                  "title": "In fungi",
+                  "id": 35,
+                  "ideas": {
+                    "1": {
+                      "title": "Chitin",
+                      "id": 36
+                    }
+                  }
+                },
+                "4": {
+                  "title": "In bacteria",
+                  "id": 37,
+                  "ideas": {
+                    "1": {
+                      "title": "Polysaccarides / Proteins",
+                      "id": 38
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "title": "Vacuole",
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "A watery fluid; holds sap, a store of dissolved sugars",
+                  "id": 40
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "6 Groups",
+          "id": 46,
+          "ideas": {
+            "1": {
+              "title": "Plants",
+              "id": 47,
+              "ideas": {
+                "1": {
+                  "title": "Multicellular; have chloroplasts",
+                  "id": 48
+                }
+              }
+            },
+            "2": {
+              "title": "Animals",
+              "id": 49,
+              "ideas": {
+                "1": {
+                  "title": "In/Vertibrates; No chloroplasts",
+                  "id": 50
+                }
+              }
+            },
+            "3": {
+              "title": "Fungi",
+              "id": 51,
+              "ideas": {
+                "1": {
+                  "title": "Unicellular; have cellwalls",
+                  "id": 52
+                },
+                "2": {
+                  "title": "Have Mycelium",
+                  "id": 62,
+                  "ideas": {
+                    "1": {
+                      "title": "Network of Hyphae",
+                      "id": 63
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Protoctisits",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "'Dustbin Kingdom'; includes Algae",
+                  "id": 54
+                }
+              }
+            },
+            "5": {
+              "title": "Bacteria",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "3 Types",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "Spheres",
+                      "id": 57,
+                      "ideas": {
+                        "1": {
+                          "title": "Singles",
+                          "id": 72
+                        },
+                        "2": {
+                          "title": "Pairs",
+                          "id": 73
+                        },
+                        "3": {
+                          "title": "Chains",
+                          "id": 74
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Rods",
+                      "id": 58,
+                      "ideas": {
+                        "1": {
+                          "title": "Singles",
+                          "id": 75
+                        },
+                        "2": {
+                          "title": "Chains",
+                          "id": 76
+                        },
+                        "3": {
+                          "title": "Can have flagella",
+                          "id": 77
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Sprials",
+                      "id": 59,
+                      "ideas": {
+                        "1": {
+                          "title": "Always have flagella",
+                          "id": 78
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Some have Flagellum",
+                  "id": 64,
+                  "ideas": {
+                    "1": {
+                      "title": "Uses like tail in corkscrew motion to propel through water",
+                      "id": 65
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Some have External Slime layer",
+                  "id": 66
+                },
+                "4": {
+                  "title": "Chromosomes",
+                  "id": 67,
+                  "ideas": {
+                    "1": {
+                      "title": "Stores DNA",
+                      "id": 68
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Plasmids",
+                  "id": 69,
+                  "ideas": {
+                    "1": {
+                      "title": "Stores genes",
+                      "id": 70
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Some can photosynthesise",
+                  "id": 71
+                }
+              }
+            },
+            "6": {
+              "title": "Viruses",
+              "id": 60,
+              "ideas": {
+                "1": {
+                  "title": "Only reproduce in host cell",
+                  "id": 61
+                },
+                "2": {
+                  "title": "Don't carry out 'functions of life' except reproduction",
+                  "id": 79,
+                  "ideas": {
+                    "1": {
+                      "title": "Can reproduce by taking over host's genetic material",
+                      "id": 80
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Surrounded by an 'envolope'",
+                  "id": 81,
+                  "ideas": {
+                    "1": {
+                      "title": "Is stolen from membrane of host cell",
+                      "id": 82
+                    }
+                  }
+                },
+                "4": {
+                  "title": "DNA/RNA is surrounded by a protein coat",
+                  "id": 83
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "Tissues",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "Organs",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "Systems",
+              "id": 44
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Gas Exchange",
+      "id": 157,
+      "ideas": {
+        "1": {
+          "title": "Ventilation",
+          "id": 158,
+          "ideas": {
+            "1": {
+              "title": "Moves air in and out of the lungs",
+              "id": 159
+            }
+          }
+        },
+        "2": {
+          "title": "Lungs",
+          "id": 160,
+          "ideas": {
+            "1": {
+              "title": "Enclosed is ribcage by thorax",
+              "id": 161
+            },
+            "2": {
+              "title": "Plural membranes separate it from thorax",
+              "id": 171
+            },
+            "3": {
+              "title": "Surrounded by plural fluid ",
+              "id": 172,
+              "ideas": {
+                "1": {
+                  "title": "Stops it sticking to thorax",
+                  "id": 173
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Diaphragm",
+          "id": 164,
+          "ideas": {
+            "1": {
+              "title": "Dome shaped",
+              "id": 166
+            },
+            "2": {
+              "title": "Fiberous middle",
+              "id": 167
+            },
+            "3": {
+              "title": "Muscular sides",
+              "id": 168
+            }
+          }
+        },
+        "4": {
+          "title": "Trachea",
+          "id": 174,
+          "ideas": {
+            "1": {
+              "title": "Wall secretes:",
+              "id": 175,
+              "ideas": {
+                "1": {
+                  "title": "Mucus",
+                  "id": 176,
+                  "ideas": {
+                    "1": {
+                      "title": "Traps dirt",
+                      "id": 177
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Cilia (hairs)",
+                  "id": 178,
+                  "ideas": {
+                    "1": {
+                      "title": "Sweep away dirt",
+                      "id": 179
+                    },
+                    "2": {
+                      "title": "Destroyed by smoking",
+                      "id": 182
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Haemoglobin",
+          "id": 183,
+          "ideas": {
+            "1": {
+              "title": "Made with iron",
+              "id": 184
+            },
+            "2": {
+              "title": "Carry's oxygen in blood stream",
+              "id": 185
+            },
+            "3": {
+              "title": "CO bond with it more strongly than O so there is less room for O and less O gets to cells ",
+              "id": 186
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Enzymes",
+      "id": 187,
+      "ideas": {
+        "1": {
+          "title": "In cells",
+          "id": 188,
+          "ideas": {
+            "1": {
+              "title": "Proteins",
+              "id": 189
+            },
+            "2": {
+              "title": "Biological Catalysts",
+              "id": 190
+            },
+            "3": {
+              "title": "Speed up reactions",
+              "id": 191
+            },
+            "4": {
+              "title": "Genes in nucleus control what enzyme a cell produces",
+              "id": 192
+            },
+            "5": {
+              "title": "They catalyse reactions in the cytoplasm",
+              "id": 193
+            },
+            "6": {
+              "title": "Everything a cell does depends on what enzymes it produces",
+              "id": 194
+            },
+            "7": {
+              "title": "Enzymes are need because body temp (~37*C) is too low",
+              "id": 197
+            },
+            "8": {
+              "title": "Thousands of types of enzymes (as made from proteins (-> amino acids))",
+              "id": 198
+            },
+            "9": {
+              "title": "The reactant is called substate",
+              "id": 199,
+              "ideas": {
+                "1": {
+                  "title": "The substrate enters the cell's active side",
+                  "id": 202
+                }
+              }
+            },
+            "10": {
+              "title": "The product is called product",
+              "id": 200
+            },
+            "11": {
+              "title": "Lock and Key model",
+              "id": 203
+            },
+            "12": {
+              "title": "Optimum ?",
+              "id": 204,
+              "ideas": {
+                "1": {
+                  "title": "Optimum tempreature",
+                  "id": 205,
+                  "ideas": {
+                    "1": {
+                      "title": "Enzymes develop an optimum tempreature (in humans = 37*C)",
+                      "id": 206
+                    },
+                    "2": {
+                      "title": "As the temperature rises the reactants get more energy, so move faster and collide more often.",
+                      "id": 207,
+                      "ideas": {
+                        "1": {
+                          "title": "But past optimum temperature the enzyme starts to break down (as made from protein)",
+                          "id": 208,
+                          "ideas": {
+                            "1": {
+                              "title": "Called denaturation",
+                              "id": 211
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Optimum pH",
+                  "id": 209,
+                  "ideas": {
+                    "1": {
+                      "title": "On either side of the optimum pH the structure of the enzyme changes so substrate doesn't fit as well.",
+                      "id": 213
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "title": "Food",
+      "id": 221,
+      "ideas": {
+        "1": {
+          "title": "Testing",
+          "id": 214,
+          "ideas": {
+            "1": {
+              "title": "for glucose",
+              "id": 215,
+              "ideas": {
+                "1": {
+                  "title": "Heated Benedict's solution (blue)",
+                  "id": 218,
+                  "ideas": {
+                    "1": {
+                      "title": "If goes yellow -> contains glucose",
+                      "id": 219
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "for starch",
+              "id": 216,
+              "ideas": {
+                "1": {
+                  "title": "Iodine solution - if goes black -> contains starch",
+                  "id": 217
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Energy",
+          "id": 222,
+          "ideas": {
+            "1": {
+              "title": "Is measured in kJ / kCal",
+              "id": 223
+            },
+            "2": {
+              "title": "Lipids have lots",
+              "id": 224
+            },
+            "3": {
+              "title": "Different genders, weights and ages need different amounts of energy",
+              "id": 225
+            },
+            "4": {
+              "title": "Pregnant women need more energy",
+              "id": 226
+            },
+            "5": {
+              "title": "energy (j/g) = ((final temp  - start temp) x 20 x 4.2)/mass (g)",
+              "id": 227,
+              "ideas": {
+                "1": {
+                  "title": "Burn food under a test tube with 20g of water",
+                  "id": 228,
+                  "ideas": {
+                    "1": {
+                      "title": "Use equation to find energy per gram ",
+                      "id": 229
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Digestion",
+      "id": 230,
+      "ideas": {
+        "1": {
+          "title": "Carborhydrates must be broken down before they can be absorbed",
+          "id": 231
+        },
+        "2": {
+          "title": "Foods being broken down",
+          "id": 232
+        },
+        "3": {
+          "title": "Chemical Digestion",
+          "id": 236,
+          "ideas": {
+            "1": {
+              "title": "Sped up by enzymes",
+              "id": 233,
+              "ideas": {
+                "1": {
+                  "title": "Digestive enzymes made by glands and tissues in the gut",
+                  "id": 235
+                },
+                "2": {
+                  "title": "Peptides are small chains of amino acids",
+                  "id": 246
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Mechanical Digestion",
+          "id": 237,
+          "ideas": {
+            "1": {
+              "title": "Chewing (increases surface area)",
+              "id": 238
+            }
+          }
+        },
+        "5": {
+          "title": "Peritalsis",
+          "id": 239,
+          "ideas": {
+            "1": {
+              "title": "Muscle contraction/relaxation that moves food along the gut",
+              "id": 240
+            },
+            "2": {
+              "title": "When circular muscles contract logitudinal muscles relax",
+              "id": 241
+            }
+          }
+        },
+        "6": {
+          "title": "Absorbtion",
+          "id": 243,
+          "ideas": {
+            "1": {
+              "title": "Happens in second part of small intestintine",
+              "id": 244
+            },
+            "2": {
+              "title": "Large intestine absorbes water and stores waste",
+              "id": 245
+            }
+          }
+        },
+        "7": {
+          "title": "Stomach",
+          "id": 247,
+          "ideas": {
+            "1": {
+              "title": "is strongly acidic",
+              "id": 248
+            },
+            "2": {
+              "title": "pH of 2",
+              "id": 249
+            }
+          }
+        },
+        "8": {
+          "title": "Liver",
+          "id": 250,
+          "ideas": {
+            "1": {
+              "title": "makes bile",
+              "id": 251,
+              "ideas": {
+                "1": {
+                  "title": "which is stored in gall bladder",
+                  "id": 252,
+                  "ideas": {
+                    "1": {
+                      "title": "before passing down bile duct to duodinum",
+                      "id": 253
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Bile breaks lipids into smaller chunks",
+                  "id": 254
+                },
+                "3": {
+                  "title": "Bile - along with pancreatic juice - are alkali",
+                  "id": 255,
+                  "ideas": {
+                    "1": {
+                      "title": "so neutralise the contents of the stomach in the duodinum",
+                      "id": 256
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "Villi (sing. Villus)",
+          "id": 257,
+          "ideas": {
+            "1": {
+              "title": "Found in the ileum",
+              "id": 258
+            },
+            "2": {
+              "title": "Tiny projections that massively increase the surface area",
+              "id": 259
+            },
+            "3": {
+              "title": "Have a lacteal",
+              "id": 260,
+              "ideas": {
+                "1": {
+                  "title": "absorbes fats",
+                  "id": 261
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "title": "Assimilation",
+          "id": 263,
+          "ideas": {
+            "1": {
+              "title": "Food used to build new cells",
+              "id": 264
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Substance must be able to enter and leave cell membrane",
+      "id": 84,
+      "ideas": {
+        "1": {
+          "title": "Diffusion",
+          "id": 85,
+          "ideas": {
+            "1": {
+              "title": "High concentration -> Low",
+              "id": 88
+            },
+            "2": {
+              "title": "Difference in concentration is concentration gradient",
+              "id": 89
+            },
+            "3": {
+              "title": "Net movement is down the concentration gradient (i.e. high -> low)",
+              "id": 90
+            },
+            "4": {
+              "title": "Uses kinetic energy of cells to pass through membrane",
+              "id": 91
+            },
+            "5": {
+              "title": "No extra source of energy is needed",
+              "id": 92
+            }
+          }
+        },
+        "2": {
+          "title": "Active Transport",
+          "id": 86,
+          "ideas": {
+            "1": {
+              "title": "Low concentration -> High",
+              "id": 93
+            },
+            "2": {
+              "title": "Requires additional energy from cell (made in respiration)",
+              "id": 94
+            },
+            "3": {
+              "title": "Large protein molecules act like a pump, moving substances in and out of cell",
+              "id": 95
+            },
+            "4": {
+              "title": "Roots of plants taking some substances like this",
+              "id": 96
+            }
+          }
+        },
+        "3": {
+          "title": "Osmosis",
+          "id": 87,
+          "ideas": {
+            "1": {
+              "title": "Diffusion with water (MUST BE THROUGH A MEMBRANE)",
+              "id": 97
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Mitosis",
+      "id": 98,
+      "ideas": {
+        "1": {
+          "title": "Zygote",
+          "id": 99,
+          "ideas": {
+            "1": {
+              "title": "Single fertilised cell",
+              "id": 100
+            }
+          }
+        },
+        "2": {
+          "title": "Embryo",
+          "id": 101,
+          "ideas": {
+            "1": {
+              "title": "A zygote that has 'split' many times forming many cells",
+              "id": 102
+            }
+          }
+        },
+        "3": {
+          "title": "Cell divides into 2 daughter cell that share genetic material equally",
+          "id": 103,
+          "ideas": {}
+        }
+      }
+    },
+    "-3": {
+      "title": "Biological Molecules",
+      "id": 105,
+      "ideas": {
+        "1": {
+          "title": "Carbohydrates",
+          "id": 106,
+          "ideas": {
+            "1": {
+              "title": "Sugars",
+              "id": 115
+            },
+            "3": {
+              "title": "Body's main fuel",
+              "id": 117
+            },
+            "4": {
+              "title": "Glucose",
+              "id": 118,
+              "ideas": {
+                "1": {
+                  "title": "Is oxidised in respiration",
+                  "id": 119
+                },
+                "2": {
+                  "title": "C6H12O6",
+                  "id": 120
+                },
+                "3": {
+                  "title": "'Single sugar'",
+                  "id": 121
+                },
+                "4": {
+                  "title": "Monosaccaride",
+                  "id": 128
+                }
+              }
+            },
+            "5": {
+              "title": "Fructose",
+              "id": 123,
+              "ideas": {
+                "1": {
+                  "title": "Fruit sugar",
+                  "id": 124
+                },
+                "2": {
+                  "title": "Monosaccaride",
+                  "id": 127
+                }
+              }
+            },
+            "6": {
+              "title": "Sucrose",
+              "id": 125,
+              "ideas": {
+                "1": {
+                  "title": "1 glucose molecule and 1 fructose molecule",
+                  "id": 126
+                },
+                "2": {
+                  "title": "Disaccaride",
+                  "id": 129
+                }
+              }
+            },
+            "7": {
+              "title": "Maltose",
+              "id": 130,
+              "ideas": {
+                "1": {
+                  "title": "2 glucose molecules",
+                  "id": 132
+                },
+                "2": {
+                  "title": "Disaccaride",
+                  "id": 133
+                }
+              }
+            },
+            "8": {
+              "title": "Cellulose",
+              "id": 131,
+              "ideas": {
+                "1": {
+                  "title": "2 glucose molecules",
+                  "id": 134
+                },
+                "2": {
+                  "title": "Disaccaride",
+                  "id": 135
+                },
+                "3": {
+                  "title": "Found in plant cell cell walls",
+                  "id": 142
+                },
+                "4": {
+                  "title": "Cellulose CANNOT be broken down (unlike Maltose) but forms roughage which give our gut something to push against",
+                  "id": 143
+                }
+              }
+            },
+            "9": {
+              "title": "Starch",
+              "id": 136,
+              "ideas": {
+                "1": {
+                  "title": "Many glucose molecules",
+                  "id": 137
+                },
+                "2": {
+                  "title": "Polysaccaride / Polymer",
+                  "id": 138
+                },
+                "3": {
+                  "title": "Large insoluble molecule",
+                  "id": 140
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Lipids (fats and oils)",
+          "id": 107,
+          "ideas": {
+            "1": {
+              "title": "Long term energy store",
+              "id": 144
+            },
+            "2": {
+              "title": "1 glycerol molecule, 3 fatty acid",
+              "id": 145
+            },
+            "3": {
+              "title": "Can be sat/unsat with hydrogen",
+              "id": 146
+            },
+            "4": {
+              "title": "Glycerol and Fatty Acids are building blocks of lipids",
+              "id": 147
+            }
+          }
+        },
+        "3": {
+          "title": "Proteins",
+          "id": 108,
+          "ideas": {
+            "1": {
+              "title": "Low amounts of protein in plants",
+              "id": 148
+            },
+            "2": {
+              "title": "Made from amino acids",
+              "id": 149,
+              "ideas": {
+                "1": {
+                  "title": "Amino acids made form Carbon, Hydrogen, Oxygen and Nitrogen",
+                  "id": 151
+                }
+              }
+            },
+            "3": {
+              "title": "Enzymes and Haemoglobin are protein",
+              "id": 152
+            }
+          }
+        },
+        "4": {
+          "title": "Minerals",
+          "id": 109,
+          "ideas": {
+            "1": {
+              "title": "Made form elements (e.g. Iron)",
+              "id": 153
+            },
+            "2": {
+              "title": "Our bodies need iron to form Haemoglobin (and carry oxygen)",
+              "id": 154
+            },
+            "3": {
+              "title": "Rickets caused by lack of calcium",
+              "id": 155
+            }
+          }
+        },
+        "5": {
+          "title": "Vitamins",
+          "id": 110,
+          "ideas": {
+            "1": {
+              "title": "Chemicals needed in small amounts to stay healthy",
+              "id": 156
+            }
+          }
+        },
+        "6": {
+          "title": "Water",
+          "id": 112
+        },
+        "7": {
+          "title": "Fibre",
+          "id": 113
+        }
+      }
+    }
+  },
+  "links": []
+}
